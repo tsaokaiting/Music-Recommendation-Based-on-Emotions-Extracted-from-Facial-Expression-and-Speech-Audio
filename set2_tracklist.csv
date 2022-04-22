@@ -1,0 +1,111 @@
+Nro,Emotion,Album name,Track,Min:Sec
+001,Anger High,Lethal weapon 3,8,04:15-04:29
+002,Anger High,The Rainmaker,7,01:45-02:00
+003,Anger High,The Alien Trilogy,9,00:03-00:18
+004,Anger High,Cape Fear,1,02:15-02:30
+005,Anger High,The Fifth Element,19,00:00-00:20
+006,Anger Mod.,Crouching Tiger Hidden Dragon,8,01:12-01:25
+007,Anger Mod.,Batman Returns,2,00:18-00:33
+008,Anger Mod.,Man of Galilee CD1,6,00:40-01:07
+009,Anger Mod.,The Untouchables,8,01:38-01:53
+010,Anger Mod.,Oliver Twist,15,02:05-02:25
+011,Fear High,Batman Returns,5,00:09-00:25
+012,Fear High,JFK,8,01:26-01:40
+013,Fear High,JFK,8,00:08-00:25
+014,Fear High,The Alien Trilogy,5,00:26-00:41
+015,Fear High,Hannibal,1,00:40-00:54
+016,Fear Mod.,Running Scared,6,02:53-03:07
+017,Fear Mod.,The Untouchables,8,01:38-01:53
+018,Fear Mod.,The Fifth Element,17,00:00-00:19
+019,Fear Mod.,Lethal weapon 3,7,00:00-00:16
+020,Fear Mod.,Man of Galilee CD1,2,03:45-04:02
+021,Happy High,The Rainmaker,3,02:55-03:13
+022,Happy High,Batman,18,00:55-01:15
+023,Happy High,Shallow Grave,6,02:02-02:17
+024,Happy High,Man of Galilee CD1,2,03:02-03:18
+025,Happy High,Oliver Twist,1,00:17-00:34
+026,Happy Mod.,The Omen,9,00:00-00:24
+027,Happy Mod.,Oliver Twist,8,01:40-02:04
+028,Happy Mod.,Grizzly Man,1,00:00-00:27
+029,Happy Mod.,The Portrait of a Lady,3,00:23-00:45
+030,Happy Mod.,Nostradamus,2,01:09-01:28
+031,Sad High,The English Patient,18,00:07-00:32
+032,Sad High,Running Scared,15,02:06-02:27
+033,Sad High,The Portrait of a Lady,9,00:00-00:22
+034,Sad High,Big Fish,15,00:55-01:11
+035,Sad High,Man of Galilee CD1,8,01:20-01:37
+036,Sad Mod.,Angel Heart,4,00:08-00:28
+037,Sad Mod.,Batman,5,01:08-01:22
+038,Sad Mod.,Dracula,7,00:00-00:12
+039,Sad Mod.,Shakespeare in Love,3,00:59-01:17
+040,Sad Mod.,The English Patient,7,00:00-00:31
+041,Tender High,Shine,10,01:28-01:48
+042,Tender High,Pride Prejudice,1,00:10-00:26
+043,Tender High,Dances with Wolves,4,01:31-01:48
+044,Tender High,Pride Prejudice,12,00:01-00:15
+045,Tender High,Oliver Twist,8,00:14-00:30
+046,Tender Mod.,Batman,9,00:00-00:19
+047,Tender Mod.,Oliver Twist,8,01:15-01:32
+048,Tender Mod.,Dracula,4,00:55-01:09
+049,Tender Mod.,Juha,2,02:11-02:26
+050,Tender Mod.,Oliver Twist,2,00:00-00:29
+051,Valence Pos. High,Juha,10,00:20-00:38
+052,Valence Pos. High,Blanc,12,00:51-01:06
+053,Valence Pos. High,Gladiator,17,00:14-00:27
+054,Valence Pos. High,Pride Prejudice,9,00:01-00:21
+055,Valence Pos. High,Dances with Wolves,10,00:28-00:46
+056,Valence Pos. Mod.,Man of Galilee CD1,2,00:19-00:42
+057,Valence Pos. Mod.,Shakespeare in Love,21,00:03-00:21
+058,Valence Pos. Mod.,Vertigo OST,6,02:02-02:17
+059,Valence Pos. Mod.,Vertigo OST,6,04:42-04:57
+060,Valence Pos. Mod.,Outbreak,6,00:16-00:31
+061,Valence Neg. Mod.,Juha,18,02:30-02:46
+062,Valence Neg. Mod.,Shakespeare in Love,11,00:21-00:36
+063,Valence Neg. Mod.,Batman,9,00:57-01:16
+064,Valence Neg. Mod.,The Fifth Element,9,00:00-00:18
+065,Valence Neg. Mod.,Big Fish,15,00:15-00:30
+066,Valence Neg. High,The English Patient,8,01:35-01:57
+067,Valence Neg. High,Lethal weapon 3,7,00:00-00:16
+068,Valence Neg. High,Road to Perdition,6,00:34-00:49
+069,Valence Neg. High,Hellraiser,5,00:00-00:15
+070,Valence Neg. High,Grizzly Man,16,01:05-01:32
+071,Energy Pos. High,The Untouchables,6,01:50-02:05
+072,Energy Pos. High,Man of Galilee CD1,2,03:02-03:18
+073,Energy Pos. High,Shine,5,02:00-02:16
+074,Energy Pos. High,Shine,15,01:00-01:19
+075,Energy Pos. High,Batman,18,00:55-01:15
+076,Energy Pos. Mod.,Juha,2,00:07-00:18
+077,Energy Pos. Mod.,Lethal weapon 3,4,01:40-02:00
+078,Energy Pos. Mod.,Crouching Tiger Hidden Dragon,13,01:52-02:10
+079,Energy Pos. Mod.,Batman,4,02:31-02:51
+080,Energy Pos. Mod.,Oliver Twist,7,01:30-01:46
+081,Energy Neg. Mod.,Juha,16,00:00-00:15
+082,Energy Neg. Mod.,Big Fish,15,00:55-01:11
+083,Energy Neg. Mod.,Big Fish,11,01:26-01:40
+084,Energy Neg. Mod.,Blanc,18,00:00-00:16
+085,Energy Neg. Mod.,Oliver Twist,6,00:51-01:07
+086,Energy Neg. High,Running Scared,15,02:06-02:27
+087,Energy Neg. High,Road to Perdition,16,00:17-00:32
+088,Energy Neg. High,Blanc,10,00:13-00:31
+089,Energy Neg. High,Blanc,16,00:00-00:15
+090,Energy Neg. High,Batman Returns,12,00:57-01:14
+091,Tension Pos. High,The Alien Trilogy,11,02:12-02:27
+092,Tension Pos. High,The Fifth Element,13,00:17-00:31
+093,Tension Pos. High,Babylon 5,3,02:47-03:00
+094,Tension Pos. High,Hellraiser,10,02:44-03:00
+095,Tension Pos. High,Oliver Twist,15,02:05-02:25
+096,Tension Pos. Mod.,The Missing,3,02:45-03:06
+097,Tension Pos. Mod.,Shallow Grave,4,01:04-01:19
+098,Tension Pos. Mod.,Naked Lunch,7,01:01-01:20
+099,Tension Pos. Mod.,Dracula,5,00:11-00:27
+100,Tension Pos. Mod.,Cape Fear,2,01:25-01:40
+101,Tension Neg. Mod.,Juha,2,02:11-02:26
+102,Tension Neg. Mod.,Shakespeare in Love,6,00:00-00:19
+103,Tension Neg. Mod.,The Fifth Element,12,00:00-00:17
+104,Tension Neg. Mod.,Crouching Tiger Hidden Dragon,11,00:28-00:46
+105,Tension Neg. Mod.,Pride Prejudice,4,00:10-00:29
+106,Tension Neg. High,Lethal weapon 3,10,01:59-02:17
+107,Tension Neg. High,The Godfather,5,01:12-01:28
+108,Tension Neg. High,Gladiator,4,00:48-01:06
+109,Tension Neg. High,Pride Prejudice,13,01:02-01:20
+110,Tension Neg. High,Big Fish,8,00:12-00:34
