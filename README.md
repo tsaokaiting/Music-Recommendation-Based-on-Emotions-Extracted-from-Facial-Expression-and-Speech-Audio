@@ -20,3 +20,9 @@ After data preprocessing, dataset used in building models: <br>
 Code: [code](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/tree/main/Audio%20Emotion%20Recognition)<br>
 1. audio-emotion-recognition-model <br>
 2. grid-search-Hyperopt <br>
+
+## Mood-based Recommender
+Data:<br>
+[Facial data](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/facial-recommendation.csv)<br>
+[Audio dataset](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/audio-recommendation.csv)<br>
+Code: [code](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/5153_recommender_mk.ipynb)<br>
