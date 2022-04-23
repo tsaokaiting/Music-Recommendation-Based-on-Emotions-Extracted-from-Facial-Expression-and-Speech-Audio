@@ -26,6 +26,7 @@ Input Data:
 
 1. Facial recognition model results:<br>
 [Facial data](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/facial-recommendation.csv)<br>
-2. Audio recognition model results
+2. Audio recognition model results<br>
 [Audio data](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/audio-recommendation.csv)<br>
-Code: [code](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/5153_recommender_mk.ipynb)<br>
+
+Code: [A demo for mood-based music recommender](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/5153_recommender_mk.ipynb)<br>
