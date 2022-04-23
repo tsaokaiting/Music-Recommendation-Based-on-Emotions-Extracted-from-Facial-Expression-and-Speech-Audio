@@ -30,3 +30,13 @@ Input Data:
 [Audio data](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/audio-recommendation.csv)<br>
 
 Code: [A demo for mood-based music recommender](https://github.com/tsaokaiting/Music-Recommendation-Based-on-Emotions-Extracted-from-Facial-Expression-and-Speech-Audio/blob/main/Mood-based%20Recommender/5153_recommender_mk.ipynb)<br>
+================
+Functions:
+* get_valence_arousal()
+Input:
+    data: User emotion prediction output probability vector including 6 dimensions (angry	fear	happy	neutral	sad	surprise)
+          Togther with two additional features: pred_label, label.
+    map: Valence-arousal score for six emotions
+  Output:
+    Dataframe contains valence-arousal scores.
+    Features: Valence, Arousal,	pred_label, label
